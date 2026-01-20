@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7l3ac2wxu(6ft5&$is_xb#)6wdkz41fr&!uq_2-6u3p8+6yu7=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mill-git-master-jadepys-projects.vercel.app',]
 
 
 # Application definition
